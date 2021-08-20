@@ -13,3 +13,8 @@ func MathPembagian(a, b int) int {
 	total := a / b
 	return total
 }
+
+func MathMin(a, b int) int {
+	total := a - b
+	return total
+}
