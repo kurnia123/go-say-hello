@@ -8,3 +8,8 @@ func MathMultiple(a, b int) int {
 	total := a * b
 	return total
 }
+
+func MathPembagian(a, b int) int {
+	total := a / b
+	return total
+}
